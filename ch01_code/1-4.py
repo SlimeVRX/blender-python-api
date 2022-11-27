@@ -8,5 +8,5 @@ bpy.ops.mesh.primitive_cube_add(size=2.0,
                                 align='WORLD', 
                                 location=(0.0, 0.0, 0.0), 
                                 rotation=(0.0, 0.0, 0.0), 
-                                scale=(0.0, 0.0, 0.0)
+                                scale=(1.0, 1.0, 1.0)
                                )
